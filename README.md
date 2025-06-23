@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-<h1 align="center">Eu sou Omar Fanzeres</h1>
-<h3 align="center">Apaixonado por tecnologia, inovação e desenvolvimento de soluções criativas!</h3>
+<h1 align="center">I'm Omar Fanzeres</h1>
+<h3 align="center">Passionate about technology, innovation, and building creative solutions!</h3>
 
-- 🔭 Atualmente estou trabalhando em projetos de **Automação, Programação C#, JavaScript e Inteligência Artificial**
-- 🌱 Atualmente estou aprendendo **Node.js e Machine Learning**
-- 👯 Sempre aberto para colaborar em projetos desafiadores e inovadores
-- 🤝 Procuro oportunidades para contribuir em **open source**
-- 📫 Como me encontrar: **omar.fanzeres@email.com** | [LinkedIn](https://www.linkedin.com/in/OmarFanzeres)
-- ⚡ Curiosidade: Adoro aprender coisas novas e compartilhar conhecimento!
+- 🔭 Currently working on **Automation, C# Programming, JavaScript, and Artificial Intelligence** projects
+- 🌱 Currently learning **Node.js, SalesForce, and Machine Learning**
+- 👯 Always open to collaborating on challenging and innovative projects
+- 🤝 Looking for opportunities to contribute to **open source**
+- 📫 How to reach me: **omar.fanzeres@email.com** | [LinkedIn](https://www.linkedin.com/in/OmarFanzeres)
+- ⚡ Fun fact: I love learning new things and sharing knowledge!
 
 ---
 
@@ -39,7 +39,20 @@
 
 ---
 
-## Contatos
+## Other Skills
+
+- Agile Development
+- Proactivity
+- Communication
+- Empathy
+- Teamwork
+- Resilience
+- Flexibility
+- Business Vision
+
+---
+
+## Contacts
 
 <p align="center">
   <a href="https://www.linkedin.com/in/OmarFanzeres" target="_blank">
@@ -55,7 +68,7 @@
 
 ---
 
-## Estatísticas do GitHub
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OmarFanzeres&show_icons=true&theme=dark" alt="OmarFanzeres"/>
@@ -64,4 +77,4 @@
 
 ---
 
-⭐️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
+⭐️ Feel free to explore my repositories and connect with me!
