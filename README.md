@@ -4,7 +4,7 @@
 <h3 align="center">Apaixonado por tecnologia, inovação e desenvolvimento de soluções criativas!</h3>
 
 - 🔭 Atualmente estou trabalhando em projetos de **Automação, Programação C#, JavaScript e inteligência artificial**
-- 🌱 Atualmente estou aprendendo **Node-JS e  Machine Learning**
+- 🌱 Atualmente estou aprendendo **Node-JS e Machine Learning**
 - 👯 Sempre aberto para colaborar em projetos desafiadores e inovadores
 - 🤝 Procuro oportunidades para contribuir em **open source**
 - 📫 Como me encontrar: **omar.fanzeres@email.com** | [LinkedIn](https://www.linkedin.com/in/OmarFanzeres)
@@ -40,14 +40,11 @@
 </p>
 
 <h3 align="left">Estatísticas do GitHub:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=OmarFanzeres&show_icons=true&theme=dark" alt="OmarFanzeres"/>
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFanzeres&layout=compact&theme=dark" alt="Top Languages"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OmarFanzeres&show_icons=true&theme=dark" alt="OmarFanzeres"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmarFanzeres&layout=compact&theme=dark" alt="Top Languages"/>
 </p>
 
 ---
 
 ⭐️ Sinta-se à vontade para explorar meus repositórios e conectar-se comigo!
--->
