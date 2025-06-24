@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">I'm Omar Fanzeres</h1>
+<h1 align="center">I'm Omar Fánzeres</h1>
 <h3 align="center">Passionate about technology, innovation, and building creative solutions!</h3>
 
 - 🔭 Currently working on **Automation, C# Programming, JavaScript, and Artificial Intelligence** projects
